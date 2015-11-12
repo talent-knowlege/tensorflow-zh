@@ -71,7 +71,7 @@ PS: 想探讨TensorFlow技术的可以加"TensorFlow技术交流群"：495115006
   - [Overview](SOURCE/tutorials/overview.md) （[@PFZheng](https://github.com/PFZheng)）
   - [MNIST For ML Beginners](SOURCE/tutorials/mnist_beginners.md) ([@Tony Jin](https://github.com/linbojin))
   - [Deep MNIST for Expert](SOURCE/tutorials/mnist_pros.md)
-  - [TensorFlow Mechanics 101](SOURCE/tutorials/mnist_tf.md)
+  - [TensorFlow Mechanics 101](SOURCE/tutorials/mnist_tf.md)([@noway56](http://github.com/noway56))
   - [Convolutional Neural Networks](SOURCE/tutorials/deep_cnn.md)
   - [Vector Representations of Words](SOURCE/tutorials/word2vec.md)
   - [Vector Representations of Words](SOURCE/tutorials/word2vec.md)
